@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,phone
+001,Doe, joe, jefferson@st.com,123456789
+002,AA, joe, jefferson@st.coqm,123456789
+003,BB, joe, jefferson@st.q,123456789
+004,CC, joe, jefferson@st.com,2222
